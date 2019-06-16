@@ -1,3 +1,3 @@
 # Network-Management
 
-Using pysnmp to get information and receive traps for managed objects.
+Mini Network Management System that uses pysnmp to get information, receive traps and save logs from managed objects.
